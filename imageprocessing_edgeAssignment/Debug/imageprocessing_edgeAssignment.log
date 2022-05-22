@@ -1,4 +1,6 @@
-﻿  소스.cpp
-C:\Users\JeonNeung\source\repos\imageprocessing_edgeAssignment\imageprocessing_edgeAssignment\소스.cpp(60,131): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\JeonNeung\source\repos\imageprocessing_edgeAssignment\imageprocessing_edgeAssignment\소스.cpp(157,133): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  imageprocessing_edgeAssignment.vcxproj -> C:\Users\JeonNeung\source\repos\imageprocessing_edgeAssignment\Debug\imageprocessing_edgeAssignment.exe
+﻿  updownsampling.cpp
+C:\Users\Neung\source\repos\EdgeDetection_assignment\imageprocessing_edgeAssignment\updownsampling.cpp(95,151): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Neung\source\repos\EdgeDetection_assignment\imageprocessing_edgeAssignment\updownsampling.cpp(260,137): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Neung\source\repos\EdgeDetection_assignment\imageprocessing_edgeAssignment\updownsampling.cpp(31,55): warning C4101: 'Y4' :참조되지 않은 지역 변수입니다.
+C:\Users\Neung\source\repos\EdgeDetection_assignment\imageprocessing_edgeAssignment\updownsampling.cpp(31,149): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+  imageprocessing_edgeAssignment.vcxproj -> C:\Users\Neung\source\repos\EdgeDetection_assignment\Debug\imageprocessing_edgeAssignment.exe
